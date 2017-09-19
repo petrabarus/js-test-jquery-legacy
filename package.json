@@ -1,0 +1,29 @@
+{
+  "name": "js-test-jquery-legacy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "devDependencies": {
+    "jquery": "3.2.1",
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3",
+    "jsdom": "11.0.0",
+    "jsdom-global": "3.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petrabarus/js-test-jquery-legacy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petrabarus/js-test-jquery-legacy/issues"
+  },
+  "homepage": "https://github.com/petrabarus/js-test-jquery-legacy#readme"
+}
